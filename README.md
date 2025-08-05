@@ -12,10 +12,14 @@
           
 ### Courses: 
 Economic sciences-2025/2029 📈
+
 Artificial intelligence-2025/2026 🤖
+
 Cryptocurrencies Blockchain Exchange-2024/2025 💸
+
 Finance Technician-2022/2023 💰
-Programing-Java/Python/SQL-2024/2026
+
+Programing-Java/Python/SQL-2024/2026 🤑
 
 
 
