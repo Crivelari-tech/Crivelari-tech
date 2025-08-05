@@ -8,6 +8,6 @@
 ![AI](https://img.shields.io/badge/-AI-🤖?style=for-the-badge&logo=sql&labelColor=BLUE)&nbsp;
 
 ### Courses: 
-Ciências economicas
+Economic sciences https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=google%20analytics&logoColor=white
 
 
