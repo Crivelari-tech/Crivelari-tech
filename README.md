@@ -3,11 +3,18 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=1a7f37&size=35&center=true&vCenter=true&width=2000&lines=HELLO,+My+name+is+Matheus+Crivelari+Sabino;I'm+20+years+old;I'm+from+Brazil;Data+Scientist+and+Economist;Stock+Exchange+and+Cryptocurrencies+and+AI;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 ### Main skills: 
+![Java](https://img.shields.io/badge/-Java-<i class="devicon-java-plain"></i>?style=for-the-badge&logo=sql&labelColor=BLUE)&nbsp;
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)&nbsp;
 ![SQL](https://img.shields.io/badge/-SQL-0D1117?style=for-the-badge&logo=sql&labelColor=787878)&nbsp;
 ![AI](https://img.shields.io/badge/-AI-🤖?style=for-the-badge&logo=sql&labelColor=BLUE)&nbsp;
 
+
 ### Courses: 
-Economic sciences https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=google%20analytics&logoColor=white
+Economic sciences-2025/2029 📈
+Artificial intelligence-2025/2026 🤖
+Cryptocurrencies Blockchain Exchange-2024/2025 💸
+Finance Technician-2022/2023 💰
+Programing-Java/Python/SQL-2024/2026
+
 
 
