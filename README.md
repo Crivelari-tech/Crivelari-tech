@@ -18,5 +18,7 @@ Finance Technician-2022/2023 💰
 
 Programing-Java/Python/SQL-2024/2026 🤑
 
+Data sciencis-2025/2026 🤖
+
 
 
